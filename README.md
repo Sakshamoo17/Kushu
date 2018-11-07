@@ -1,4 +1,4 @@
-# Kushu
+# Personal
 Website
 # Developers 
 -Saksham Sharma<br>
